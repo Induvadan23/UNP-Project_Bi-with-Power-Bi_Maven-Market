@@ -1,4 +1,4 @@
-# UNP-Project_Bi-with-Power-Bi_Maven-MarketCompleted this project as part of ay BI with PowerBI Internship with United Network of Professionals (UP)
+# UNP-Project_Bi-with-Power-Bi_Maven-Market
 Key highlights:
 I Have Contributed to the development of intricate KPIs and dynamic, interactive Power BI Interfaces,Collaborated with my team members and have made a creative data model, implemented data transformations and calculations using DAX for accurats analysis and reports.
 
