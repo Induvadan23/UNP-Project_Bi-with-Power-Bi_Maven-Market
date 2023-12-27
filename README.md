@@ -1,4 +1,4 @@
-# UNP-Project_Bi-with-Power-Bi_Maven-Market
+# UNP-Project_BI-with-Power-BI_Maven-Market
 Key highlights:
 I Have Contributed to the development of intricate KPIs and dynamic, interactive Power BI Interfaces,Collaborated with my team members and have made a creative data model, implemented data transformations and calculations using DAX for accurats analysis and reports.
 
